@@ -15,6 +15,6 @@ Questions can be asked by [email](mailto:dayt0n@dayt0n.com), or via [Twitter](ht
 
 Credits
 =======
-+[xerub](https://twitter.com/xerub)
-+[iphone-dataprotection](https://github.com/dayt0n/iphone-dataprotection)
-+[dayt0n](https://twitter.com/daytonhasty)
++ [xerub](https://twitter.com/xerub)
++ [iphone-dataprotection](https://github.com/dayt0n/iphone-dataprotection)
++ [dayt0n](https://twitter.com/daytonhasty)
